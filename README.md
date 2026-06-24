@@ -41,7 +41,7 @@ A professional system tray application for monitoring and controlling Tor on Lin
 ## Installation
 
 ```bash
-git clone https://github.com/aaxref/tor-control-center.git
+git clone https://github.com/dev4ref/tor-control-center.git
 cd tor-control-center
 chmod +x setup.sh
 ./setup.sh
